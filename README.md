@@ -1,39 +1,48 @@
-# fabric-contract-api-go-gm
+fabric-contract-api-go-gm
+==================
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+基于`github.com/hyperledger/fabric-contract-api-go`的国密改造。
 
-#### 软件架构
-软件架构说明
+# Hyperledger Fabric Go Contract API
 
+[![Build Status](https://dev.azure.com/Hyperledger/Fabric-Contract-API-Go/_apis/build/status/Fabric-Contract-API-Go?branchName=main)](https://dev.azure.com/Hyperledger/Fabric-Contract-API-Go/_build/latest?definitionId=48&branchName=main)
+[![](http://godoc.org/github.com/hyperledger/fabric-contract-api-go?status.svg)](http://godoc.org/github.com/hyperledger/fabric-contract-api-go)
 
-#### 安装教程
+This repository contains the packages for the implementation of the contract API for use in Go chaincode running on Fabric v2.1
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+We welcome contributions to the Hyperledger Fabric project in many forms.
+There’s always plenty to do! Check the documentation on
+[how to contribute][contributing] to this project for the full details.
 
-#### 使用说明
+## Community
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- [Hyperledger Community](https://www.hyperledger.org/community)
+- [Hyperledger mailing lists and archives](http://lists.hyperledger.org/)
+- [Hyperledger Chat](http://chat.hyperledger.org/channel/fabric)
+- [Hyperledger Fabric Issue Tracking (JIRA)](https://jira.hyperledger.org/secure/Dashboard.jspa?selectPageId=10104)
+- [Hyperledger Fabric Wiki](https://wiki.hyperledger.org/display/Fabric)
+- [Hyperledger Wiki](https://wiki.hyperledger.org/)
+- [Hyperledger Code of Conduct](https://wiki.hyperledger.org/display/HYP/Hyperledger+Code+of+Conduct)
 
-#### 参与贡献
+## Documentation
+Documentation for all packages within this repo can be found [here](http://godoc.org/github.com/hyperledger/fabric-contract-api-go)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+## Tutorials
+Tutorials for how to create smart contracts using packages in this repo can be found [here](./tutorials)
 
+A sample chaincode built using packages from this repo can be found in [fabric-samples](https://github.com/hyperledger/fabric-samples/tree/main/chaincode/fabcar/go)
 
-#### 特技
+## Raising issues
+Issues for packages in this repository are raised and tracked using [JIRA](https://jira.hyperledger.org) under the project Fabric Contract API Go (FABCAG). You can view the current open issues by visiting [https://jira.hyperledger.org/projects/FABCAG/issues?filter=allopenissues](https://jira.hyperledger.org/projects/FABCAG/issues?filter=allopenissues). Before raising an issue please check existing issues to avoid duplication.
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+To raise an issue in JIRA press the `create` button at the top of the page, set the project to "Fabric Contract API Go (FABCAG)" and fill in the remainder of the form setting the issue type, providing a summary and giving a description. For bugs it is helpful if the description contains details on how they can be replicated.
+
+## License <a name="license"></a>
+
+Hyperledger Project source code files are made available under the Apache License, Version 2.0 (Apache-2.0), located in the [LICENSE](LICENSE) file. Hyperledger Project documentation files are made available under the Creative Commons Attribution 4.0 International License (CC-BY-4.0), available at http://creativecommons.org/licenses/by/4.0/.
+
+[contributing]: https://hyperledger-fabric.readthedocs.io/en/latest/CONTRIBUTING.html
+[grpc]: https://grpc.io/docs/guides/
+[protobuf]: https://github.com/protocolbuffers/protobuf/
+[rocketchat-image]: https://open.rocket.chat/images/join-chat.svg
+[rocketchat-url]: https://chat.hyperledger.org/channel/fabric
