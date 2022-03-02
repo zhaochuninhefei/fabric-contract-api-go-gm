@@ -1,9 +1,7 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 cloud.google.com/go v0.34.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
-gitee.com/zhaochuninhefei/fabric-chaincode-go-gm v0.0.2 h1:Zeb8PG70DrTl0PoOgK0fhUafQxi4uvoR7kQ9vEwI/YU=
-gitee.com/zhaochuninhefei/fabric-chaincode-go-gm v0.0.2/go.mod h1:Th5Lm+dsMbL8kRRlN0cLjCxptaamXRey4IB1nusXhMQ=
-gitee.com/zhaochuninhefei/gmgo v0.0.3 h1:0c66U+zAD//KgWpkSm4nO2KwPOzoKIPQgvjGilAyca4=
-gitee.com/zhaochuninhefei/gmgo v0.0.3/go.mod h1:kQv8Tn9hZ4d1WV0zpHmMDaCq+syJmrAvHQbgezTqEwI=
+gitee.com/zhaochuninhefei/gmgo v0.0.4 h1:yH3SJi2zpsjBJJIRAR0Taq1fhGTPP6MGe90vbcKLpQE=
+gitee.com/zhaochuninhefei/gmgo v0.0.4/go.mod h1:kQv8Tn9hZ4d1WV0zpHmMDaCq+syJmrAvHQbgezTqEwI=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/DATA-DOG/go-txdb v0.1.3/go.mod h1:DhAhxMXZpUJVGnT+p9IbzJoRKvlArO2pkHjnGX7o0n0=
 github.com/PuerkitoBio/purell v1.1.1 h1:WEQqlqaGbrPkxLJWfBwQmfEAE1Z7ONdDLqrN38tNFfI=
