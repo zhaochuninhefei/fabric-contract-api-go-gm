@@ -4,7 +4,6 @@
 package contractapi
 
 import (
-	// "crypto/x509"
 	"testing"
 
 	"gitee.com/zhaochuninhefei/fabric-chaincode-go-gm/shimtest"
