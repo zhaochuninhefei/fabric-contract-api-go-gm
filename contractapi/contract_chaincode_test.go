@@ -17,7 +17,7 @@ import (
 	"gitee.com/zhaochuninhefei/fabric-contract-api-go-gm/internal/utils"
 	"gitee.com/zhaochuninhefei/fabric-contract-api-go-gm/metadata"
 	"gitee.com/zhaochuninhefei/fabric-contract-api-go-gm/serializer"
-	"github.com/hyperledger/fabric-protos-go/peer"
+	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/peer"
 	"github.com/stretchr/testify/assert"
 )
 

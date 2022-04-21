@@ -21,10 +21,10 @@ import (
 	"gitee.com/zhaochuninhefei/fabric-contract-api-go-gm/internal/functionaltests/contracts/simplecontract"
 	"gitee.com/zhaochuninhefei/fabric-contract-api-go-gm/internal/functionaltests/contracts/utils"
 	"gitee.com/zhaochuninhefei/fabric-contract-api-go-gm/metadata"
+	"gitee.com/zhaochuninhefei/fabric-protos-go-gm/peer"
 	"github.com/cucumber/godog"
 	"github.com/cucumber/godog/colors"
 	"github.com/cucumber/godog/gherkin"
-	"github.com/hyperledger/fabric-protos-go/peer"
 )
 
 var opt = godog.Options{Output: colors.Colored(os.Stdout)}
