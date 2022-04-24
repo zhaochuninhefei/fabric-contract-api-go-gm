@@ -5,7 +5,7 @@ go 1.17
 require (
 	gitee.com/zhaochuninhefei/fabric-chaincode-go-gm v0.0.5
 	gitee.com/zhaochuninhefei/fabric-protos-go-gm v0.0.1
-	gitee.com/zhaochuninhefei/gmgo v0.0.8
+	gitee.com/zhaochuninhefei/gmgo v0.0.9
 	github.com/cucumber/godog v0.12.4
 	github.com/go-openapi/spec v0.20.4
 	github.com/gobuffalo/packr v1.30.1
