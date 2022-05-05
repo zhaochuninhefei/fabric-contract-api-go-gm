@@ -36,8 +36,8 @@ gitee.com/zhaochuninhefei/fabric-chaincode-go-gm v0.0.5/go.mod h1:niJfVjviAr63oQ
 gitee.com/zhaochuninhefei/fabric-protos-go-gm v0.0.1 h1:3SLYH6k5a/eDA3p2uxhSTGxT6h85VjPai/0NoHHSC6E=
 gitee.com/zhaochuninhefei/fabric-protos-go-gm v0.0.1/go.mod h1:cAEwQ9OO7YY3kJ4hqkLVhtk8j+y0etmvll3ZwOf044E=
 gitee.com/zhaochuninhefei/gmgo v0.0.8/go.mod h1:toMA93O2xt6VLnd7An85Iy7+RSJ4jhf1sVOBTU8zZ50=
-gitee.com/zhaochuninhefei/gmgo v0.0.10 h1:gfvu2v8J/3ADYT01d1APsILMlW57dZIqF8zodYZ3t34=
-gitee.com/zhaochuninhefei/gmgo v0.0.10/go.mod h1:toMA93O2xt6VLnd7An85Iy7+RSJ4jhf1sVOBTU8zZ50=
+gitee.com/zhaochuninhefei/gmgo v0.0.12 h1:dVbTwVroppv9LfsRTlSUKz3NayYNlwNfgRbt/f/xztI=
+gitee.com/zhaochuninhefei/gmgo v0.0.12/go.mod h1:toMA93O2xt6VLnd7An85Iy7+RSJ4jhf1sVOBTU8zZ50=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/DATA-DOG/go-txdb v0.1.3/go.mod h1:DhAhxMXZpUJVGnT+p9IbzJoRKvlArO2pkHjnGX7o0n0=
