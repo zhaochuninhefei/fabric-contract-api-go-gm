@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	gitee.com/zhaochuninhefei/fabric-chaincode-go-gm v0.0.5
-	gitee.com/zhaochuninhefei/fabric-protos-go-gm v0.0.1
+	gitee.com/zhaochuninhefei/fabric-protos-go-gm v0.0.3
 	gitee.com/zhaochuninhefei/gmgo v0.0.16
 	github.com/cucumber/godog v0.12.4
 	github.com/go-openapi/spec v0.20.4
@@ -42,6 +42,6 @@ require (
 )
 
 // gitee.com/zhaochuninhefei/fabric-chaincode-go-gm => /home/zhaochun/work/sources/gcbaas/fabric-chaincode-go-gm
-// gitee.com/zhaochuninhefei/fabric-protos-go-gm => /home/zhaochun/work/sources/gcbaas/fabric-protos-go-gm
+// replace gitee.com/zhaochuninhefei/fabric-protos-go-gm => /home/zhaochun/work/sources/gcbaas/fabric-protos-go-gm
 // gitee.com/zhaochuninhefei/gmgo => /home/zhaochun/work/sources/gm-zc/gmgo
 replace github.com/cucumber/godog => github.com/cucumber/godog v0.8.0
