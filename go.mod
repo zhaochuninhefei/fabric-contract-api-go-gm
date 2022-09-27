@@ -3,9 +3,9 @@ module gitee.com/zhaochuninhefei/fabric-contract-api-go-gm
 go 1.17
 
 require (
-	gitee.com/zhaochuninhefei/fabric-chaincode-go-gm v0.0.5
-	gitee.com/zhaochuninhefei/fabric-protos-go-gm v0.0.3
-	gitee.com/zhaochuninhefei/gmgo v0.0.18
+	gitee.com/zhaochuninhefei/fabric-chaincode-go-gm v0.0.6
+	gitee.com/zhaochuninhefei/fabric-protos-go-gm v0.0.4
+	gitee.com/zhaochuninhefei/gmgo v0.0.20
 	github.com/cucumber/godog v0.12.4
 	github.com/go-openapi/spec v0.20.4
 	github.com/gobuffalo/packr v1.30.1
@@ -14,7 +14,7 @@ require (
 )
 
 require (
-	gitee.com/zhaochuninhefei/zcgolog v0.0.14 // indirect
+	gitee.com/zhaochuninhefei/zcgolog v0.0.15 // indirect
 	github.com/PuerkitoBio/purell v1.1.1 // indirect
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
